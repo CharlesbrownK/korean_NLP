@@ -38,4 +38,4 @@
 |04|🏃|Add Text Similarity Explanations|
  -->
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CharlesbrownK/HeyBugo?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CharlesbrownK/korean_NLP?style=for-the-badge">
